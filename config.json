@@ -1,0 +1,31 @@
+{
+    "footer_sublinks": [
+        {
+            "name": "4545",
+            "link": "http://localhost/admin/themes/cesium/config"
+        }
+    ],
+    "desc_footer": "dddddddddddddddddddddddd",
+    "record_connection": "5555",
+    "mount_offer_enable": "true",
+    "mount_offer_name": "test",
+    "mount_offer_link": "test",
+    "mount_offer_link_type": "_self",
+    "mount_offer_price": "10",
+    "mount_offer_price_reduction": "6",
+    "mount_offer_end_date": "2026-11-27",
+    "vote_award_1": "4545",
+    "vote_award_2": "4545",
+    "vote_award_3": "4545",
+    "vote_award_4": "545",
+    "vote_award_5": "5445",
+    "vote_award_all": "4545",
+    "title_header_link_left": "Discord",
+    "subtitle_header_link_left": "CLIQUE POUR REJOINDRE",
+    "img_header_link_left": "ico.png",
+    "link_header_link_left": "!https://GOOGLE.COM",
+    "title_header_link_right": "Discord",
+    "subtitle_header_link_right": "CLIQUE POUR",
+    "img_header_link_right": "ico.png",
+    "link_header_link_right": "!https://GOOGLE.COM"
+}
